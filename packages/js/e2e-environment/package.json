@@ -59,7 +59,7 @@
 		"@wordpress/babel-preset-default": "3.0.2",
 		"@wordpress/browserslist-config": "wp-6.0",
 		"ndb": "^1.1.5",
-		"semver": "^7.3.2"
+		"semver": "^7.5.2"
 	},
 	"publishConfig": {
 		"access": "public"

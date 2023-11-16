@@ -21,7 +21,7 @@
 		"@oclif/plugin-help": "^5",
 		"@oclif/plugin-plugins": "^2.0.1",
 		"@types/semver": "^7.3.10",
-		"semver": "^7.3.2"
+		"semver": "^7.5.2"
 	},
 	"devDependencies": {
 		"@types/node": "^16.18.18",
